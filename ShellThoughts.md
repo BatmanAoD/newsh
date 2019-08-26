@@ -1,6 +1,6 @@
 #Thoughts on shells in general
 
-###"Things" that can be evaluated/manipulated by a shell:
+### "Things" that can be evaluated/manipulated by a shell:
 
  * strings (literals, other...)
  * variables
@@ -13,7 +13,7 @@
  * Temp files (reading, writing...)
  * Shell builtins/operators/etc via 'eval'
 
-###...These can be evaluated *as*...
+### ...These can be evaluated *as*...
 
  * nothing (e.g. no output captured from a subshell)
  * strings
@@ -24,7 +24,7 @@
  * file-handles
  * interpretable shell code
 
-###Strings/code have multiple levels of "expansion." In Bash, in order:
+### Strings/code have multiple levels of "expansion." In Bash, in order:
 
  1. Brace expansion
  1. Tilde expansion
