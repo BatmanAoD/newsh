@@ -1,4 +1,4 @@
-#Thoughts on shells in general
+# Thoughts on shells in general
 
 ### "Things" that can be evaluated/manipulated by a shell:
 
